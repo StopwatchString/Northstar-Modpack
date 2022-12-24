@@ -4,5 +4,11 @@
     "name": "Skitsofrandom",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8919a9ca-9124-431b-bf46-d0c4d662d208",
+    "name": "Skateoriginal1",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
